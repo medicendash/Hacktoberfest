@@ -8,6 +8,8 @@ Welcome to the ultimate **Hacktoberfest repository**! 🚀 This is your gateway 
 
 ## 📚 What is Hacktoberfest?
 
+![Hacktoberfest 2025](https://hacktoberfest.com/resources/Hacktoberfest.png)
+
 Hacktoberfest is DigitalOcean's annual event that encourages people to contribute to open source throughout October. Participants aim to submit 6 high-quality pull/merge requests between October 1 and October 31, with project maintainers accepting your pull/merge requests for them to count toward your total.
 
 ## 🎯 Repository Goals
@@ -157,3 +159,4 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 **Made with ❤️ by [@bhaveshpatil093](https://github.com/bhaveshpatil093)**
 
 **Happy Contributing! 🎉**
+
